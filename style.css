@@ -1,0 +1,182 @@
+
+   
+.colordiv{
+    height: 30px;
+    width:30px;
+    border-radius: 50%;
+    background-color: rgb(236, 129, 5);
+}
+
+.navbar-div{
+   display: flex;
+   padding-left: 50px;
+   padding-top: 15px;
+}
+ul>li{
+    list-style: none;
+    float: left;
+    padding: 10px;
+
+}
+.anchorin{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.557);
+   
+}
+a:hover{
+    color: black;
+}
+.stepham-com{
+    position: relative;
+    top: -20px;
+    padding-left:25px;
+
+}
+.anchor{
+    position: relative;
+    top: -20px;
+    padding-left:450px;
+}
+.container{
+    text-align: center;
+    justify-content: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h5{
+    position: relative;
+    top: -30px;
+}
+input{
+    size: 500px;
+}
+.container>.box{
+    text-align: center;
+    justify-content: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.box{
+    height: 50px;
+    width: 500px;
+    background-color: antiquewhite;
+    border-radius: 20px ;
+    border: 2px solid rgba(0, 0, 0, 0.813);
+   
+}
+.boxin{
+    padding-left: 370px;
+    position: relative;
+    top: -40px;
+}
+.box>i{
+    font-size: 20px;
+    color: black;
+}
+.box>input{
+    flex: 1;
+    height: 50px;
+    width: 400px;
+    border: none;
+}
+.sing-in{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+.sing-in:hover{
+    font-size: 30px;
+    color: red;
+}
+/*fdjskjdksfj dskf jdsik jsjfkdsj f*/
+.container-tow{
+   
+    background-color: antiquewhite;
+    height: 350px;
+    
+}
+.left-div{
+    width: 400px;
+    padding-left: 150px;
+    padding-top: 50px;
+}
+.public{
+    height: 300px;
+    width: 500px;
+}
+.containerin-tow{
+    padding: 30px;
+    display: flex;
+}
+.img{
+    height: 300px;
+    width: 500px;
+}
+.containerin-three{
+    padding: 30px;
+}
+.containerin-three{
+    display: flex;
+}
+.containerin-three{
+    padding-left: 200px;
+    padding-top: 50px;
+}
+.containerthree-right{
+    padding-left: 100px;
+    padding-top: 50px;
+    font-size: 20px;
+    position: relative;
+    top: -10px;
+    left: 10px;
+}
+.container-three{
+    background-color: blue;
+}
+.peragrph{
+    color: rgba(255, 255, 255, 0.879);
+}
+span{
+    color: whitesmoke;
+}
+.contanerinfore-left{
+    width: 40%;
+    padding-left: 200px;
+    position: relative;
+    top: 50px;
+    font-size: 20px;
+}
+.containarin-fore{
+    display: flex;
+}
+.contanerinfore-right{
+    padding-right: 100px;
+}
+.container-fore{
+    background-color:rgba(212, 212, 46, 0.808);
+}
+.lastcontainerin-left{
+    width: 70%;
+    padding-left: 50px;
+    
+}
+.lastcontainerin{
+    display: flex;
+}
+.lastcontainerin-right{
+    border-left: 2px solid red;
+    padding: 10px;
+
+}
+.lascontainer{
+    background-color: antiquewhite;
+    position: relative;
+    top: 30px;
+}
+.gmaill{
+    text-align: center;
+    padding-left: 200px;
+    color: red;
+
+}
